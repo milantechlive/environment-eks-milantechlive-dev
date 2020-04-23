@@ -1,6 +1,7 @@
 apiVersion: v1
+appVersion: request
 description: ACME Chart
 maintainers:
 - name: Team
 name: acme
-version: "1"
+version: request
